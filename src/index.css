@@ -1,0 +1,16 @@
+:root {
+  background-color: #36384D;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
