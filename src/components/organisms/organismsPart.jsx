@@ -1,6 +1,6 @@
 import React from 'react';
 import RightSideImg from './organismsImg/image.svg';
-import MoleculsPart from '../moleculs/moleculsPart';
+import MoleculsPart from '../moleculs/MoleculsPart';
 
 function Organisms() {
     return (
